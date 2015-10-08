@@ -1,4 +1,4 @@
-# Mores ESLint (JSDoc) Shareable Config
+# Canonical ESLint (JSDoc) Shareable Config
 
 [![Travis build status](http://img.shields.io/travis/gajus/eslint-plugin-canonical-jsdoc/master.svg?style=flat-square)](https://travis-ci.org/gajus/eslint-plugin-canonical-jsdoc)
 [![NPM version](http://img.shields.io/npm/v/eslint-plugin-canonical-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/eslint-plugin-canonical-jsdoc)
