@@ -1,11 +1,11 @@
-# Canonical ESLint (JSDoc) Shareable Config
+# Canonical ESLint (JSDoc) Config
 
 [![Travis build status](http://img.shields.io/travis/gajus/eslint-plugin-canonical-jsdoc/master.svg?style=flat-square)](https://travis-ci.org/gajus/eslint-plugin-canonical-jsdoc)
 [![NPM version](http://img.shields.io/npm/v/eslint-plugin-canonical-jsdoc.svg?style=flat-square)](https://www.npmjs.org/package/eslint-plugin-canonical-jsdoc)
 
 ## Usage
 
-Shareable configs are designed to work with the `extends` feature of `.eslintrc` files. You can learn more about [Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs) on the official ESLint website.
+Shareable configs are designed to work with the `extends` feature of `.eslintrc` files. You can learn more about [ESLint shareable configuration](http://eslint.org/docs/developer-guide/shareable-configs) on the official ESLint website.
 
 To use the JavaScript Canonical Style shareable config, first run this:
 
