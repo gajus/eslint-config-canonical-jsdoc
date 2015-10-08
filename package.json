@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-canonical-jsdoc",
+  "description": "Canonical ESLint (JSDoc) Shareable Config",
+  "version": "1.1.1",
+  "main": "./index.js",
+  "author": {
+    "name": "Gajus Kuizinas",
+    "email": "gk@anuary.com",
+    "url": "http://gajus.com"
+  },
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gajus/eslint-config-canonical-jsdoc"
+  },
+  "keywords": [
+    "eslint",
+    "canonical",
+    "jsdoc"
+  ],
+  "scripts": {
+    "test": "babel-node ./node_modules/.bin/mocha"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "chai": "^3.3.0",
+    "eslint": "^1.6.0",
+    "mocha": "^2.3.3",
+    "eslint-plugin-jsdoc": "^1.0.1"
+  }
+}
