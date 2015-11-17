@@ -22,7 +22,7 @@
     "test": ""
   },
   "devDependencies": {
-    "eslint": "^1.7.1",
+    "eslint": "^1.9.0",
     "eslint-plugin-jsdoc": "^1.1.0"
   }
 }
