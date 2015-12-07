@@ -8,10 +8,10 @@
         "jsdoc/check-redundant-returns": 1,
         "jsdoc/check-returns-types": 1,
         "jsdoc/check-types": 1,
-        "jsdoc/newline-after-description": 1,
+        "jsdoc/newline-after-description": 0,
         "jsdoc/require-description-complete-sentence": 1,
         "jsdoc/require-param": 1,
-        "jsdoc/require-param-description": 1,
+        "jsdoc/require-param-description": 0,
         "jsdoc/require-param-types": 1,
         "jsdoc/require-returns-description": 0,
         "jsdoc/require-returns-types": 1
