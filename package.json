@@ -25,6 +25,6 @@
     "eslint": "^1.10.3"
   },
   "dependencies": {
-    "eslint-plugin-jsdoc": "^1.1.0"
+    "eslint-plugin-jsdoc": "^2.0.1"
   }
 }
