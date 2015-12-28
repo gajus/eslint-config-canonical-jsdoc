@@ -13,8 +13,8 @@ module.exports = {
         'jsdoc/require-hyphen-before-description': 0,
         'jsdoc/require-param': 1,
         'jsdoc/require-param-description': 0,
-        'jsdoc/require-param-type': 1,
+        'jsdoc/require-param-type': 0,
         'jsdoc/require-returns-description': 0,
-        'jsdoc/require-returns-type': 1
+        'jsdoc/require-returns-type': 0
     }
 };
