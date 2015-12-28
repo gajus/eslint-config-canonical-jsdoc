@@ -10,6 +10,7 @@ module.exports = {
             1,
             'always'
         ],
+        'jsdoc/require-description-complete-sentence': 1,
         'jsdoc/require-hyphen-before-description': 0,
         'jsdoc/require-param': 1,
         'jsdoc/require-param-description': 0,
