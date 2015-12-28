@@ -5,7 +5,7 @@
   "main": "./index.js",
   "author": {
     "name": "Gajus Kuizinas",
-    "email": "gk@anuary.com",
+    "email": "gajus@gajus.com",
     "url": "http://gajus.com"
   },
   "license": "BSD-3-Clause",
@@ -25,6 +25,6 @@
     "eslint": "^1.10.3"
   },
   "dependencies": {
-    "eslint-plugin-jsdoc": "^2.0.2"
+    "eslint-plugin-jsdoc": "^2.0.3"
   }
 }
