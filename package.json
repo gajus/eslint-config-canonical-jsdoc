@@ -5,7 +5,7 @@
     "url": "http://gajus.com"
   },
   "dependencies": {
-    "eslint-plugin-jsdoc": "^2.2.3"
+    "eslint-plugin-jsdoc": "^2.3.0"
   },
   "description": "Canonical ESLint (JSDoc) Shareable Config",
   "devDependencies": {
